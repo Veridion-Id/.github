@@ -54,6 +54,7 @@ With Veridion:
 ---
 ## Links of interest
 - [**Pitch deck**](https://www.canva.com/design/DAGzDclgYRk/27RU46WVAKZ9BrIdIsQo0A/view?utm_content=DAGzDclgYRk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h403a7ab95e)
+- [**Main website**](https://frontend-veridion.vercel.app/)
 
 ---
 ## Diagrams
