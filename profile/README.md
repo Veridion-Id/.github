@@ -50,3 +50,16 @@ With Veridion:
 
 ---
 **Veridion makes Stellar safer, more inclusive, and human-first. 🚀**
+
+---
+## Links of interest
+- [**Pitch deck**](https://www.canva.com/design/DAGzDclgYRk/27RU46WVAKZ9BrIdIsQo0A/view?utm_content=DAGzDclgYRk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h403a7ab95e)
+
+---
+## Diagrams
+To understand the logic behind our project, we created the following diagrams:
+
+![Diagram 1](https://github.com/user-attachments/assets/5585e4be-660e-47fe-9d31-58e25b48f610)
+![Diagram 2](https://github.com/user-attachments/assets/7bfe174f-2654-4287-88d3-190656caad43)
+![Diagram 3](https://github.com/user-attachments/assets/834104f0-0e70-41fc-a01f-0a8cc3e8a2ee)
+
